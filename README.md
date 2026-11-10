@@ -54,22 +54,30 @@ EJERCICIO 3. BÚSQUEDA GUARDADA. en Facturación → Clientes → Facturas, mues
 ![favoritos.png](Fotos/favoritos.png)
 ![filtros.png](Fotos/filtros.png)
 
+EJERCICIO 4. MODO DESARROLLADOR Con el modo desarrollador activo, averigua el nombre técnico de dos campos del formulario de contacto y el modelo de una factura
+![Activar el modo desalollador.png](Fotos/Activar%20el%20modo%20desalollador.png)
+
+Le prefunte a la ia como activar el modo desarrolador, lo que le pregunte fue:  como activo el modo desaroyador en odoo, su respuesta fue:
+
+Desde Ajustes (Método estándar)
+
+Ve al menú principal y entra en Ajustes.
+
+Desplázate hasta el fondo de la página, a la sección Herramientas de desarrollador (Developer Tools).
+
+Nombre técnico de dos campos del formulario de contacto 
+![Captura desde 2026-11-10 10-33-01.png](Fotos/Captura%20desde%202026-11-10%2010-33-01.png)
+![Captura desde 2026-11-10 10-33-16.png](Fotos/Captura%20desde%202026-11-10%2010-33-16.png)
+
+Modelo de una factura
+![Captura desde 2026-11-10 11-01-32.png](Fotos/Captura%20desde%202026-11-10%2011-01-32.png)
+![Captura desde 2026-11-10 11-01-36.png](Fotos/Captura%20desde%202026-11-10%2011-01-36.png)
 
 
+Incidencias:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Fecha | Síntoma | Causa | Solución |
+| :--- | :--- | :--- | :--- |
 
 
 
