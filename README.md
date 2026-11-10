@@ -51,8 +51,8 @@ Llamada programada
 ![LlamadaProgramada.png](Fotos/LlamadaProgramada.png)
 
 EJERCICIO 3. BÚSQUEDA GUARDADA. en Facturación → Clientes → Facturas, muestra solo las facturas publicadas, agrupadas por cliente, en vista lista, y guárdalo como favorito. Haz una captura.
-
-
+![favoritos.png](Fotos/favoritos.png)
+![filtros.png](Fotos/filtros.png)
 
 
 
