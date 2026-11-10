@@ -3,7 +3,7 @@
 ![Tarea92.png](Fotos/Tarea92.png)
 ![BasesCreadas.png](Fotos/BasesCreadas.png)
 
-EJERCICIO 1. TIPOS DE PRODUCTO localiza en demo un producto de cada tipo, fíjate en si
+# EJERCICIO 1. TIPOS DE PRODUCTO localiza en demo un producto de cada tipo, fíjate en si
 tiene impuestos asignados y haz una captura de su ficha
 
 Los que tiene la estrellita son los que seleccione.
@@ -13,7 +13,7 @@ No tenian impuesto asiginados asi que se los asigne yo a los 2 que me dejo.
 ![Setoficina.png](Fotos/Setoficina.png)
 ![Sofa.png](Fotos/Sofa.png)
 
-EJERCICIO 2. RECORRIDO. Haz este recorrido y guarda una captura de cada paso para el
+# EJERCICIO 2. RECORRIDO. Haz este recorrido y guarda una captura de cada paso para el
 README.
 - 1. Contactos: abre un contacto de empresa y uno de persona. Fíjate en la diferencia entre Compañía e Individuo y en cómo las personas quedan vinculadas a su empresa.
 Empresa
@@ -50,11 +50,11 @@ Programar llamda
 Llamada programada
 ![LlamadaProgramada.png](Fotos/LlamadaProgramada.png)
 
-EJERCICIO 3. BÚSQUEDA GUARDADA. en Facturación → Clientes → Facturas, muestra solo las facturas publicadas, agrupadas por cliente, en vista lista, y guárdalo como favorito. Haz una captura.
+# EJERCICIO 3. BÚSQUEDA GUARDADA. en Facturación → Clientes → Facturas, muestra solo las facturas publicadas, agrupadas por cliente, en vista lista, y guárdalo como favorito. Haz una captura.
 ![favoritos.png](Fotos/favoritos.png)
 ![filtros.png](Fotos/filtros.png)
 
-EJERCICIO 4. MODO DESARROLLADOR Con el modo desarrollador activo, averigua el nombre técnico de dos campos del formulario de contacto y el modelo de una factura
+# EJERCICIO 4. MODO DESARROLLADOR Con el modo desarrollador activo, averigua el nombre técnico de dos campos del formulario de contacto y el modelo de una factura
 ![Activar el modo desalollador.png](Fotos/Activar%20el%20modo%20desalollador.png)
 
 Se me olvido poner la foto conforme entro en modo desarrollado del siguiente modo http://localhost:8069/odoo?debug=1.
@@ -78,7 +78,7 @@ Modelo de una factura
 | Fecha de vencimiento | invoice_date_due | account.move   |
 
 
-Incidencias:
+# Incidencias:
 
 | Fecha                | Síntoma                                                                                            | Causa                               | Solución                             |
 |:---------------------|:---------------------------------------------------------------------------------------------------|:------------------------------------|:-------------------------------------|
@@ -86,5 +86,6 @@ Incidencias:
 | 10/11/2026           | En la parte de filtrados de facturas, se pide filtrar por facturas publicas y no existe ese filtro | En la explicacion  pone publicadas  | El filtro en realidad era registrada |
 
 
-Uso de la IA:
+# Uso de la IA:
+
 Use la ia para Intentar solucionar las dos anteriores Incidencias, me soluciono una, pero la otra no fue capaz.
