@@ -1,17 +1,21 @@
+# IMPORTANTE
+Me faltan algunas imágenes por despiestes al no leer, intente desde casa lanzar hacerlo
+pero no me deja hacer el up de docker, las imagenes que tengo son las que pude conseguir en clase,
+intente arreglar el prble del up con gemini y no soy capaz.
+
+
+
 # 1 Bases de datos: Captura del gestor con demo y primo, e idioma y país con que se crearon.
 ![Tarea91.png](Fotos/Tarea91.png)
 ![Tarea92.png](Fotos/Tarea92.png)
 ![BasesCreadas.png](Fotos/BasesCreadas.png)
 
-# EJERCICIO 1. TIPOS DE PRODUCTO localiza en demo un producto de cada tipo, fíjate en si
-tiene impuestos asignados y haz una captura de su ficha
-
-Los que tiene la estrellita son los que seleccione.
-No tenian impuesto asiginados asi que se los asigne yo a los 2 que me dejo.
+# EJERCICIO 1. TIPOS DE PRODUCTO localiza en demo un producto de cada tipo, fíjate en sitiene impuestos asignados y haz una captura de su ficha
 ![productosdecadatipo.png](Fotos/productosdecadatipo.png)
 ![AlojamientoHotel.png](Fotos/AlojamientoHotel.png)
 ![Setoficina.png](Fotos/Setoficina.png)
 ![Sofa.png](Fotos/Sofa.png)
+Eso viene así en los datos demo por el tema de las categorías. Los bienes ya traen el 21% de IVA fijo porque la categoría donde están metidos ya lo tiene asignado por defecto. En cambio, los servicios y los combos los dejaron sin impuestos a propósito, para mostrar ejemplos reales de cómo meterle el IVA a mano según el tipo de venta que se haga.
 
 # EJERCICIO 2. RECORRIDO. Haz este recorrido y guarda una captura de cada paso para el
 README.
